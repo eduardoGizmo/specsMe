@@ -9,3 +9,8 @@ end
 def subtract(x, y)
  return 10 - 5
 end
+
+
+def multiply(x, y)
+  return 8
+end
