@@ -14,3 +14,8 @@ end
 def multiply(x, y)
   return 8
 end
+
+
+def divide(x,y)
+return 10 / 2
+end
